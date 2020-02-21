@@ -1,4 +1,4 @@
-# K.Y.S
+# K.Y.S - Klimb Your Self!
 Incomplete game made for the 2020 Nokia 3310 GameJam
 
 The theme of this game jame was *Death is Good*
